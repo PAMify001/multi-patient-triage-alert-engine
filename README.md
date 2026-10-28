@@ -4,6 +4,10 @@ A MATLAB triage engine that screens patient vital signs against safe clinical ra
 
 Built by **Team CodeX** for the FUTMinna MATLAB Space bootcamp, *Beyond The Code: Decode Your World* (in collaboration with MathWorks). Track 2, Group 2.
 
+🥈 **First Runner-Up** in the project presentations.
+
+I'm **[Peter Onah Apeh](https://github.com/PAMify001)**, and I served as **Team Lead** for this project, leading a team of four to **1st Runner-Up** among fifteen teams in the bootcamp challenge.
+
 ## Team
 
 | Member | Role |
